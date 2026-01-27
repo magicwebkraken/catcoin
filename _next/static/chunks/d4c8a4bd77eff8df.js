@@ -789,7 +789,7 @@
                     "fixed inset-0 bg-black/95 z-40 flex flex-col items-center justify-center gap-8 md:hidden",
                   children: [
                     (0, t.jsx)("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xde7ea3e9db316b821934a2d223cf0c1f0ab9daa5",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                       children: (0, t.jsx)("button", {
                         onClick: () => a(!1),
                         className:
@@ -798,7 +798,7 @@
                       }),
                     }),
                     (0, t.jsx)("a", {
-                      href: "https://t.me/Catcoin_paw",
+                      href: "https://t.me/catcoinoneth",
                       children: (0, t.jsx)("button", {
                         onClick: () => a(!1),
                         className:
@@ -822,13 +822,13 @@
               className: "hidden md:flex gap-4",
               children: [
                 (0, t.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xde7ea3e9db316b821934a2d223cf0c1f0ab9daa5",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
                   className:
                     "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-gray-500 text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 small-button",
                   children: "Buy now",
                 }),
                 (0, t.jsx)("a", {
-                  href: "https://t.me/Catcoin_paw",
+                  href: "https://t.me/catcoinoneth",
                   className:
                     "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground shadow hover:bg-secondary/80 h-9 px-4 py-2 small-button",
                   children: "Community",
