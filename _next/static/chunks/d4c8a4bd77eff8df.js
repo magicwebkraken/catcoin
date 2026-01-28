@@ -807,7 +807,7 @@
                       }),
                     }), 
                     (0, t.jsx)("a", {
-                      href: "https://x.com/Catcoin_paw",
+                      href: "https://x.com/catcoinoneth_x",
                       children: (0, t.jsx)("button", {
                         onClick: () => a(!1),
                         className:
@@ -834,7 +834,7 @@
                   children: "Community",
                 }),
                 (0, t.jsx)("a", {
-                  href: "https://x.com/Catcoin_paw",
+                  href: "https://x.com/catcoinoneth_x",
                   className:
                     "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground shadow hover:bg-secondary/80 h-9 px-4 py-2 small-button",
                   children: "Say Meow",
