@@ -499,7 +499,7 @@
                 (0, i.jsx)("div", {
                   className: "flex flex-col sm:flex-row gap-4 mb-20 z-20",
                   children: (0, i.jsx)("a", {
-                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                    href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1D6a7402e387a55F44cc9712969c4bE77C42574B",
                     className:
                       "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-gray-500 text-primary-foreground shadow hover:bg-accent/90 h-9 px-4 py-2 big-button text-[14px] xl:text-base",
                     children: "BUY NOW",

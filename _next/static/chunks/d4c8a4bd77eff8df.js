@@ -789,7 +789,7 @@
                     "fixed inset-0 bg-black/95 z-40 flex flex-col items-center justify-center gap-8 md:hidden",
                   children: [
                     (0, t.jsx)("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1D6a7402e387a55F44cc9712969c4bE77C42574B",
                       children: (0, t.jsx)("button", {
                         onClick: () => a(!1),
                         className:
@@ -822,7 +822,7 @@
               className: "hidden md:flex gap-4",
               children: [
                 (0, t.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x1D6a7402e387a55F44cc9712969c4bE77C42574B",
                   className:
                     "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-gray-500 text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2 small-button",
                   children: "Buy now",
